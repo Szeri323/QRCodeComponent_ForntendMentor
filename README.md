@@ -27,7 +27,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [My site centerdiv.pl](https://centerdiv.pl/projects/others/frontendmentor/QRCodeComponent/qr-code-component.html)
 - Live Site URL: [Github Pages](https://szeri323.github.io/projects/others/frontendmentor/QRCodeComponent/qr-code-component.html)
 - Solution URL: [Frontend Mentor solution page](https://www.frontendmentor.io/solutions/sassscss-O7npxVZVwY)
 
